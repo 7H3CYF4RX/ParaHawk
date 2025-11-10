@@ -33,7 +33,7 @@ PARA-HAWK is a powerful, multi-threaded web crawler designed to discover GET par
 
 ```bash
 # Clone the repository
-git clone https://github.com/VIRTUAL-VIRUZ/ParaHawk.git
+git clone https://github.com/7H3CYF4RX/ParaHawk.git
 cd ParaHawk
 
 # Install required packages
@@ -289,7 +289,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone your fork
-git clone https://github.com/VIRTUAL-VIRUZ/ParaHawk.git
+git clone https://github.com/7H3CYF4RX/ParaHawk.git
 cd ParaHawk
 
 # Create virtual environment
@@ -316,8 +316,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/VIRTUAL-VIRUZ/ParaHawk/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/VIRTUAL-VIRUZ/ParaHawk/discussions)
+- **Issues**: [GitHub Issues](https://github.com/7H3CYF4RX/ParaHawk/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/7H3CYF4RX/ParaHawk/discussions)
 - **Email**: farhuzeee@gmail.com
 
 ---
